@@ -20,6 +20,11 @@
 
 ### 🧭 Về mình
 
+Mình là **Nguyễn Tuấn Anh (AnhNguyxnn)** – học sinh nhiệt huyết với công nghệ máy tính, hệ thống mạng, đam mê khám phá STEM và say mê robotics. Với nền tảng về **Linux, C++, Python, Java**, mình không ngừng khám phá và sáng tạo. Tình yêu với robotics đã đưa mình đến nhiều sân chơi uy tín như các cuộc thi do FPT tổ chức và giải đấu **FIRST**, nơi mình luôn nỗ lực học hỏi và khẳng định đam mê của mình.
+
+- 🏫 Khóa: 2009
+- 📍 Ba Vì, Hà Nội, Việt Nam
+- 🎮 Game yêu thích: Valorant, PUBG, Minecraft, Subnautica
 - 🔭 Hiện tại: mình đang mày mò xây các dự án cá nhân và đóng góp vào cộng đồng mã nguồn mở.
 - 🎯 Mục tiêu: tạo ra sản phẩm hữu ích, gọn gàng, dễ mở rộng, mang lại trải nghiệm tốt cho người dùng.
 - 💡 Giá trị: đơn giản, rõ ràng, có thể bảo trì; ưu tiên chất lượng hơn số lượng.
@@ -80,6 +85,17 @@
 - ✍️ Viết lại các dự án nhỏ một cách sạch sẽ, có test, có CI/CD.
 - 🔬 Thử nghiệm các ý tưởng mới và tối ưu hiệu năng.
 - 🤝 Sẵn sàng hợp tác/đóng góp với cộng đồng open-source.
+
+### 📬 Liên hệ
+
+<div align="center">
+  <a href="mailto:nguyentuananh.network@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nguyentuananh.network%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AnhNguyxnn?tab=followers">
+    <img src="https://img.shields.io/badge/Follow%20@AnhNguyxnn-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</div>
 
 ### 🤝 Kết nối
 
