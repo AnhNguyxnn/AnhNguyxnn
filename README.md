@@ -2,7 +2,7 @@
 
   <h1>Xin chào, mình là <b>Anh Nguyễn</b> 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Welcome+to+AnhNguyxnn's+open-source+corner!;Building+simple%2C+beautiful%2C+and+reliable+products;Always+learning%2C+sharing%2C+and+growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Welcome+to+AnhNguyxnn's+open-source+corner!;Always+learning%2C+sharing%2C+and+growing!" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/AnhNguyxnn">
