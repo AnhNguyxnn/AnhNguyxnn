@@ -2,7 +2,7 @@
 
   <h1>Xin chào, mình là <b>Anh Nguyễn</b> 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+G%E1%BB%91c+M%C3%A3+ngu%E1%BB%93n+m%E1%BB%9F+c%E1%BB%A7a+AnhNguyxnn!;X%C3%A2y+d%E1%BB%B1ng+s%E1%BA%A3n+ph%E1%BA%A9m+%C4%91%C6%A1n+gi%E1%BA%A3n%2C+%C4%91%E1%BA%B9p+%26+%C4%91%E1%BB%8Bm+t%C3%ACnh;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi%2C+chia+s%E1%BA%BB+v%C3%A0+c%E1%99%A1ng+%C4%91%E1%BB%93ng!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Welcome+to+AnhNguyxnn's+open-source+corner!;Building+simple%2C+beautiful%2C+and+reliable+products;Always+learning%2C+sharing%2C+and+growing!" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/AnhNguyxnn">
@@ -35,26 +35,15 @@ Mình là **Nguyễn Tuấn Anh (AnhNguyxnn)** – học sinh nhiệt huyết v�
 
 <div align="center">
 
-  <!-- Languages -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <!-- Languages & Platforms -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-
-  <!-- Frontend -->
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-
-  <!-- Backend / DevOps -->
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
 
-  <!-- Tools -->
+  <!-- DevOps / Tools -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" />
 
@@ -70,6 +59,15 @@ Mình là **Nguyễn Tuấn Anh (AnhNguyxnn)** – học sinh nhiệt huyết v�
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnhNguyxnn&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
+</div>
+
+### 🐍 Snake trên bảng đóng góp
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnhNguyxnn/AnhNguyxnn/output/snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnhNguyxnn/AnhNguyxnn/output/snake.svg" />
+  </picture>
 </div>
 
 <details>
