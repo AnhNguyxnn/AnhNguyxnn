@@ -18,12 +18,6 @@
 
 </div>
 
-<div align="right">
-  <a href="./README.en.md">🇬🇧 English version</a>
-</div>
-
-<br />
-
 ### 🧭 Về mình
 
 Mình là **Nguyễn Tuấn Anh (AnhNguyxnn)** – học sinh nhiệt huyết với công nghệ máy tính, hệ thống mạng, đam mê khám phá STEM và say mê robotics. Với nền tảng về **Linux, C++, Python, Java**, mình không ngừng khám phá và sáng tạo. Tình yêu với robotics đã đưa mình đến nhiều sân chơi uy tín như các cuộc thi do FPT tổ chức và giải đấu **FIRST**, nơi mình luôn nỗ lực học hỏi và khẳng định đam mê của mình.
@@ -112,5 +106,3 @@ Mình là **Nguyễn Tuấn Anh (AnhNguyxnn)** – học sinh nhiệt huyết v�
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=6&section=footer" alt="divider" />
 </div>
-
-
